@@ -93,6 +93,13 @@ footer,
   color: #2196f3;
 }
 
+.work img{
+  width: 373.16px; 
+  height: 323.7px;
+  background: red;
+  border-color: brown;
+  margin: 50;
+}
 .linkheader {
   font-weight: 500;
   font-size: 14px;
