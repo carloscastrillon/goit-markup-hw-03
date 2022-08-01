@@ -1,0 +1,119 @@
+body {
+  font-family: "Roboto", "sans-serif";
+  color: #212121;
+}
+
+ul {
+  list-style-type: none;
+}
+
+section h1,
+address,
+footer .linkemail {
+  color: #ffffff;
+}
+
+.linkheader,
+.listdetails p,
+.listprojects p {
+  color: #757575;
+}
+
+.linkheader,
+.listdetails,
+.celnumber,
+.address,
+.linkemail {
+  font-size: 14px;
+}
+
+.listteam,
+.listprojects p {
+  font-size: 16px;
+}
+
+.listprojects h3 {
+  font-size: 18x;
+}
+
+
+.linkheader,  .listdetails h3{
+  line-height: 1.14;
+ }  
+
+ .solutions h1{
+  line-height: 1.36;
+ }
+
+ .buttonsolutions, .listprojects p{
+  line-height: 1.88;
+ }
+
+ .listdetails p , address , .linkemail,.celnumber{
+  line-height: 1.71;
+ }
+
+ .listteam {
+  line-height: 1.18;
+ }
+
+ .buttonportafolio{
+  line-height: 1.62;
+ }
+
+ .listprojects h3{
+  line-height: 2.0;
+ }
+
+footer,
+.solutions {
+  background-color: #2f303a;
+}
+
+.buttonsolutions {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  background-color: #2196f3;
+  color: #f5f4fa;
+  cursor: pointer;
+}
+
+.logowebstudio,
+.linkheader,
+.linkemail {
+  text-decoration: none;
+}
+
+.logowebstudio {
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+  color: #2196f3;
+}
+
+.linkheader {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  color: #212121;
+  font-family: "Roboto";
+  font-style: normal;
+}
+
+.linkheader:hover {
+  color: #2196f3;
+}
+
+.buttonportafolio {
+  background-color: #f5f4fa;
+  cursor: pointer;
+  border: none;
+}
+
+.buttonportafolio:hover {
+  background-color: #2196f3;
+  color: #f5f4fa;
+}
